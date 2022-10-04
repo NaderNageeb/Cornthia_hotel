@@ -1,0 +1,20 @@
+user side:
+
+user name =ali@gmail.com
+pass = 123
+
+http://localhost/cornthia_hotel/
+
+
+
+
+
+
+
+
+
+Admin Side : 
+usre name = admin
+pass = admin
+  
+http://localhost/cornthia_hotel/admin/login.php
